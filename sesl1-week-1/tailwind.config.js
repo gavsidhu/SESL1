@@ -9,7 +9,7 @@ module.exports = {
     extend: {
       fontFamily: {
         display: ["'Press Start 2P'", 'sans-serif'],
-        normal: ["'Bebas Neue", 'sans-serif']
+        normal: ["'Bebas Neue'", 'sans-serif']
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
